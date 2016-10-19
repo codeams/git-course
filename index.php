@@ -2,6 +2,6 @@
 
   # linea de texto 3
 
-	# caiese prro
+  # caiese prro
 
 ?>
